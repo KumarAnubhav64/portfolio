@@ -30,6 +30,7 @@ h2{
 p{
     color: rgb(222, 218, 218);
     font-family: "Montserrat";
+    line-height: 2;
 
 }
 .my-name{
@@ -91,6 +92,7 @@ p{
 .card-text{
     font-family: "Montserrat";
     font-size: 15px;
+    line-height: 2;
 }
 #testimonials{
     background-image: linear-gradient(270deg,#12100e  0%, #0a1c36 40%,#030b19 90%);
